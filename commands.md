@@ -1,7 +1,7 @@
 # Hi! I'm glad to see you here! =)
 # I'm going to tell you about some useful commands for your experience with Linux. =)
 
-### Every command has a structure like this:
+<h2> Every command has a structure like this: </h2>
 
   command -option1 -option2 -option3
 
@@ -14,7 +14,7 @@ for example
   ls -la -> list all files and directories in long format
 
 
-### 1. ls: List all files inside an specific directory
+<h2> 1. ls: List all files inside an specific directory </h2>
 <table>
   <tr>
     <th>Command</th>

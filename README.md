@@ -97,9 +97,6 @@
   <p>If you have any suggestions, corrections, or would like to contribute to this repository, feel free to submit a pull
     request. Your contributions are highly appreciated and will help improve the content for the benefit of the Linux
     community.</p>
-  <h2>License</h2>
-  <p>This repository is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use and share the content within
-    the terms of the license.</p>
   <h2>Acknowledgements</h2>
   <p>Special thanks to all the contributors and open-source projects that have provided valuable resources and information
     about Linux. Your dedication and efforts have made the Linux community vibrant and thriving.</p>

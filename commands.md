@@ -62,7 +62,7 @@ for example
   </tr>
 </table>
 
-### 2. cd: Navigate inside directories
+<h2> 2. cd: Navigate inside directories</h2>
 <table>
   <tr>
     <th>Command</th>
@@ -94,7 +94,7 @@ for example
   </tr>
 </table>
 
-### 3. mkdir: Create directories
+<h2> 3. mkdir: Create directories </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -114,7 +114,7 @@ for example
   </tr>
 </table>
 
-### 4. rm: Remove files and directories (be careful with this command)
+<h2> 4. rm: Remove files and directories (be careful with this command) </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -138,7 +138,7 @@ for example
   </tr>
 </table>
 
-### 5. cp: Copy files and directories
+<h2> 5. cp: Copy files and directories </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -158,7 +158,7 @@ for example
   </tr>
 </table>
 
-### 6. mv: Move files and directories or you can rename files and directories
+<h2> 6. mv: Move files and directories or you can rename files and directories </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -190,7 +190,7 @@ for example
   </tr>
 </table>
 
-### 7. touch: Create files
+<h2> 7. touch: Create files </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -206,7 +206,7 @@ for example
   </tr>
 </table>
 
-### 8. cat: Show file content
+<h2>  8. cat: Show file content</h2>
 <table>
   <tr>
     <th>Command</th>
@@ -222,7 +222,7 @@ for example
   </tr>
 </table>
 
-### 9. less: Show file content with scrolling
+<h2>  9. less: Show file content with scrolling </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -238,7 +238,7 @@ for example
   </tr>
 </table>
 
-### 10. head and tail: Show first and last lines of file
+<h2> 10. head and tail: Show first and last lines of file </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -278,7 +278,7 @@ for example
   </tr>
 </table>
 
-### 11. grep: Search pattern in file
+<h2> 11. grep: Search pattern in file </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -318,7 +318,7 @@ for example
   </tr>
 </table>
 
-### 12. find: Find files and directories by pattern
+<h2> 12. find: Find files and directories by pattern </h2>
 <table>
   <tr>
     <th>Command</th>
@@ -334,7 +334,7 @@ for example
   </tr>
 </table>
 
-### 13. chmod: Change file and directory permissions
+<h2> 13. chmod: Change file and directory permissions </h2>
 <table>
   <tr>
     <th>Command</th>
